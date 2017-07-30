@@ -2,16 +2,16 @@
 Sample demostration, apply swagger in API doc generate.
 
  
- - Run Project
+# Run Project
 
--- clone my project
+* clone my project
 git clone https://github.com/EudesSilva/swagger-with-node
 
--- install node modules
+* install node modules
 npm install
 
--- run project
+* run project
 npm start
 
--- Access you browser in
+* Access you browser in
 http://localhost:3000/swagger/ui
